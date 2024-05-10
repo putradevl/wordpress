@@ -8,11 +8,11 @@
 	>
 
 <channel>
-	<title>Beta</title>
+	<title>BETA</title>
 	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<link></link>
 	<description></description>
-	<lastBuildDate>Fri, 10 May 2024 07:26:12 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 10 May 2024 14:48:04 +0000</lastBuildDate>
 	<language>id</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -25,7 +25,7 @@
 					<comments>/2024/05/10/halo-dunia/#comments</comments>
 		
 		<dc:creator><![CDATA[saputra27]]></dc:creator>
-		<pubDate>Fri, 10 May 2024 07:26:12 +0000</pubDate>
+		<pubDate>Fri, 10 May 2024 14:48:04 +0000</pubDate>
 				<category><![CDATA[Tak Berkategori]]></category>
 		<guid isPermaLink="false">/?p=1</guid>
 
